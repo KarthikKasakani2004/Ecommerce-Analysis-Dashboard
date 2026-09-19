@@ -9,12 +9,12 @@ The project demonstrates practical **data cleaning, data analysis, KPI developme
 The objective of this project is to transform raw e-commerce data into an interactive business dashboard that helps identify:
 
 * Sales trends over time
-* High-performing product categories
+* Product and category performance
 * Customer and regional performance
 * Payment behavior
 * Order and delivery patterns
 * Customer ratings and reviews
-* Returns and operational issues
+* Returns and operational patterns
 * Key business performance indicators
 
 ## 🛠️ Tools & Skills
@@ -46,7 +46,7 @@ The objective of this project is to transform raw e-commerce data into an intera
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard .png" alt="E-Commerce Analytics Dashboard">
+  <img src="Dashboard .png" alt="E-Commerce Sales & Business Analytics Dashboard">
 </p>
 
 ## 📈 Key Dashboard Components
@@ -83,11 +83,11 @@ Customer-related analysis includes:
 
 Payment data is analyzed based on:
 
-* Payment method
+* Payment methods
 * Payment status
 * Transaction fees
 * Net sales
-* Fraud-risk indicators
+* Payment-related indicators
 
 ### Delivery & Review Analysis
 
@@ -110,40 +110,34 @@ This dashboard can help answer questions such as:
 4. Which regions generate the highest sales?
 5. Which customer segments contribute most to business performance?
 6. Which payment methods are most frequently used?
-7. What payment issues or risks exist?
+7. What payment-related patterns can be observed?
 8. Where are delivery delays occurring?
 9. How do customer ratings vary across products or categories?
 10. What patterns can be observed in returns and customer reviews?
 
-## 📊 Business Insights
-
-## 📊 Business Insights
+## 💡 Business Insights
 
 * **₹1.11B Net Sales in 2024** compared with **₹742.25M in 2025**, providing a clear year-wise view of overall sales performance.
 * **2025 Net Sales were approximately 33.21% lower than 2024**, highlighting a significant year-over-year change that can be investigated further through category, product, regional, and monthly analysis.
-* **Monthly sales analysis** identifies fluctuations and helps highlight peak and low-performing periods throughout the year.
-* **Category and product-level analysis** helps identify the major contributors to overall sales performance.
-* **Regional analysis** provides visibility into differences in sales performance across geographic markets.
-* **Interactive Year Slicer and Timeline** allow users to dynamically explore sales performance across different periods.
+* **Monthly sales analysis** helps identify fluctuations and peak or low-performing periods throughout the year.
+* **Category and product-level analysis** provides visibility into the major contributors to overall sales performance.
+* **Regional analysis** enables comparison of sales performance across different geographic markets.
+* **Year Slicer and Timeline controls** allow users to dynamically explore sales performance across different periods.
 * **KPI cards** provide a quick summary of important business metrics for faster performance monitoring.
 * The dashboard combines **PivotTables, PivotCharts, calculated columns, slicers, timeline controls, and conditional formatting** to transform raw e-commerce data into an interactive business reporting solution.
 
-
-
 ## 💡 Skills Demonstrated
 
-This project demonstrates my ability to:
-
-* Work with structured business datasets
-* Clean and organize data for analysis
-* Create calculated columns and metrics
-* Build PivotTables and PivotCharts
-* Design interactive dashboards
-* Create KPI cards
-* Use slicers and timelines for dynamic filtering
-* Analyze sales and operational performance
-* Translate raw data into business insights
-* Present analytical results in a clear visual format
+* Data Cleaning and Preparation
+* Exploratory Data Analysis
+* KPI Development
+* Calculated Columns and Metrics
+* PivotTables and PivotCharts
+* Interactive Dashboard Design
+* Slicers and Timeline Controls
+* Trend and Performance Analysis
+* Business Data Visualization
+* Translating Data into Business Insights
 
 ## 📂 Project Files
 
@@ -164,7 +158,7 @@ Ecommerce-Analysis-Dashboard/
 2. Open the workbook using Microsoft Excel.
 3. Navigate to the **Dashboard** sheet.
 4. Use the slicers and timeline to filter the analysis.
-5. Select different years, categories, regions, customer segments and other available filters.
+5. Select different years, categories, regions, customer segments, and other available filters.
 6. Review the KPI cards and charts to identify business trends and patterns.
 
 ## 👨‍💻 Author

@@ -7,7 +7,7 @@ The project demonstrates practical **data cleaning, data analysis, KPI developme
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Ecommerce Analytics Dashboard .png" alt="E-Commerce Analytics Dashboard">
+  <img src="Dashboard .png" alt="E-Commerce Analytics Dashboard">
 </p>
 
 ## 🎯 Project Objective

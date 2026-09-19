@@ -6,7 +6,7 @@ The project demonstrates practical **data cleaning, data analysis, KPI developme
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Analysis Dashboard](screenshots/dashboard.png)
+C:\Users\HP\OneDrive\Documents\Certificates\Ecommerce Analytics Dashboard\Ecommerce Analysis Dashboard\screenshots
 
 ## 🎯 Project Objective
 

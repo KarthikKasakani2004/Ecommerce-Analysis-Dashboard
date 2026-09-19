@@ -117,14 +117,17 @@ This dashboard can help answer questions such as:
 
 ## 📊 Business Insights
 
-* **Annual Sales Performance:** Generated **₹1.11B in Net Sales in 2024** and **₹742.25M in 2025**, enabling a clear year-over-year comparison of sales performance.
-* **Year-over-Year Analysis:** Net Sales in 2025 were approximately **33.21% lower than 2024**, highlighting a significant change in overall sales performance.
-* **Sales Trend Analysis:** Analyzed monthly sales trends to identify fluctuations, peak periods, and changes in sales performance throughout the year.
-* **Category Performance:** Compared sales across product categories to identify major contributors to overall revenue and areas with comparatively lower performance.
-* **Product-Level Analysis:** Evaluated product-level sales performance to understand which products contributed most to total sales.
-* **Interactive Filtering:** Implemented **Year Slicers and Timeline controls** to allow users to dynamically analyze sales performance across different periods.
-* **KPI-Based Reporting:** Developed KPI cards to provide a quick view of key sales metrics and support faster business decision-making.
-* **Business Intelligence Dashboard:** Combined **PivotTables, PivotCharts, calculated columns, conditional formatting, slicers, and timeline controls** to transform raw e-commerce data into an interactive analytical dashboard.
+## 📊 Business Insights
+
+* **₹1.11B Net Sales in 2024** compared with **₹742.25M in 2025**, providing a clear year-wise view of overall sales performance.
+* **2025 Net Sales were approximately 33.21% lower than 2024**, highlighting a significant year-over-year change that can be investigated further through category, product, regional, and monthly analysis.
+* **Monthly sales analysis** identifies fluctuations and helps highlight peak and low-performing periods throughout the year.
+* **Category and product-level analysis** helps identify the major contributors to overall sales performance.
+* **Regional analysis** provides visibility into differences in sales performance across geographic markets.
+* **Interactive Year Slicer and Timeline** allow users to dynamically explore sales performance across different periods.
+* **KPI cards** provide a quick summary of important business metrics for faster performance monitoring.
+* The dashboard combines **PivotTables, PivotCharts, calculated columns, slicers, timeline controls, and conditional formatting** to transform raw e-commerce data into an interactive business reporting solution.
+
 
 
 ## 💡 Skills Demonstrated

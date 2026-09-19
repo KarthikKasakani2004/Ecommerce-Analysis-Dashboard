@@ -4,12 +4,6 @@ An interactive **E-Commerce Sales Analytics Dashboard built in Microsoft Excel**
 
 The project demonstrates practical **data cleaning, data analysis, KPI development, PivotTables, PivotCharts, slicers, timelines, and dashboard design** skills relevant to entry-level Data Analyst roles.
 
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="Dashboard .png" alt="E-Commerce Analytics Dashboard">
-</p>
-
 ## 🎯 Project Objective
 
 The objective of this project is to transform raw e-commerce data into an interactive business dashboard that helps identify:
@@ -49,17 +43,11 @@ The objective of this project is to transform raw e-commerce data into an intera
 * Data Aggregation
 * Interactive Filtering
 
-## 📁 Workbook Structure
+## 📊 Dashboard Preview
 
-| Sheet         | Description                                                                 |
-| ------------- | --------------------------------------------------------------------------- |
-| **Dashboard** | Interactive dashboard containing KPIs, charts and filters                   |
-| **Pivot**     | PivotTable-based calculations used to generate dashboard insights           |
-| **Orders**    | Order-level sales, discount, shipping and order-status information          |
-| **Customers** | Customer demographics and acquisition information                           |
-| **Products**  | Product, category, brand and pricing information                            |
-| **Payments**  | Payment methods, payment status, fees, net sales and fraud-risk information |
-| **Reviews**   | Customer ratings, reviews, delivery/product quality and return information  |
+<p align="center">
+  <img src="Dashboard .png" alt="E-Commerce Analytics Dashboard">
+</p>
 
 ## 📈 Key Dashboard Components
 
@@ -127,7 +115,19 @@ This dashboard can help answer questions such as:
 9. How do customer ratings vary across products or categories?
 10. What patterns can be observed in returns and customer reviews?
 
-## 💡 Key Skills Demonstrated
+## 📊 Business Insights
+
+* **Annual Sales Performance:** Generated **₹1.11B in Net Sales in 2024** and **₹742.25M in 2025**, enabling a clear year-over-year comparison of sales performance.
+* **Year-over-Year Analysis:** Net Sales in 2025 were approximately **33.21% lower than 2024**, highlighting a significant change in overall sales performance.
+* **Sales Trend Analysis:** Analyzed monthly sales trends to identify fluctuations, peak periods, and changes in sales performance throughout the year.
+* **Category Performance:** Compared sales across product categories to identify major contributors to overall revenue and areas with comparatively lower performance.
+* **Product-Level Analysis:** Evaluated product-level sales performance to understand which products contributed most to total sales.
+* **Interactive Filtering:** Implemented **Year Slicers and Timeline controls** to allow users to dynamically analyze sales performance across different periods.
+* **KPI-Based Reporting:** Developed KPI cards to provide a quick view of key sales metrics and support faster business decision-making.
+* **Business Intelligence Dashboard:** Combined **PivotTables, PivotCharts, calculated columns, conditional formatting, slicers, and timeline controls** to transform raw e-commerce data into an interactive analytical dashboard.
+
+
+## 💡 Skills Demonstrated
 
 This project demonstrates my ability to:
 
@@ -163,20 +163,6 @@ Ecommerce-Analysis-Dashboard/
 4. Use the slicers and timeline to filter the analysis.
 5. Select different years, categories, regions, customer segments and other available filters.
 6. Review the KPI cards and charts to identify business trends and patterns.
-
-## 📌 Project Highlights
-
-* Interactive Excel dashboard
-* Multiple related e-commerce datasets
-* KPI-driven business analysis
-* Year and date-based filtering
-* Sales trend analysis
-* Product and category analysis
-* Customer segmentation analysis
-* Payment analysis
-* Delivery and review analysis
-* PivotTable and PivotChart implementation
-* Business-focused data visualization
 
 ## 👨‍💻 Author
 

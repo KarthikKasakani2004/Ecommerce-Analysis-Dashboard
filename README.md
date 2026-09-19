@@ -5,9 +5,7 @@ An interactive **E-Commerce Sales Analytics Dashboard built in Microsoft Excel**
 The project demonstrates practical **data cleaning, data analysis, KPI development, PivotTables, PivotCharts, slicers, timelines, and dashboard design** skills relevant to entry-level Data Analyst roles.
 
 ## 📊 Dashboard Preview
-
-C:\Users\HP\OneDrive\Documents\Certificates\Ecommerce Analytics Dashboard\Ecommerce Analysis Dashboard\screenshots
-
+![E-Commerce Analytics Dashboard](screenshots/dashboard.png)
 ## 🎯 Project Objective
 
 The objective of this project is to transform raw e-commerce data into an interactive business dashboard that helps identify:
